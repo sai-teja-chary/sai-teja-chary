@@ -38,7 +38,7 @@
 ### 🧋 [Get Me A Chai](https://sendmechai.vercel.app)
 > A creator supporter app (like Patreon) built with **Next.js**, **Tailwind CSS**, **MongoDB**, and **Auth.js**
 
-### 🧋 [URL Shortner](https://linkbits.vercel.app)
+### 🔗 [URL Shortner](https://linkbits.vercel.app)
 > A minimal, privacy-friendly URL shortener built with **Next.js**, **MongoDB**, and **Tailwind CSS**. It allows users to shorten long URLs into compact, shareable links — no sign-in required!
 
 ### 🔐 [Password Manager](https://savepasswords.netlify.app)
