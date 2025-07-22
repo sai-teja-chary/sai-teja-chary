@@ -71,7 +71,6 @@
 
 - 📧 Email: [saitejachary1411@gmail.com](mailto:saitejachary1411@gmail.com)
 - 💼 LinkedIn: [sai-teja-chary](https://linkedin.com/in/sai-teja-chary)
-- 🔗 Portfolio (optional): *Add here if available*
 
 ---
 
