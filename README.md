@@ -12,7 +12,7 @@
 ## 💼 About Me
 
 - 🧑‍💻 2 years of experience as a **Software Tester** using Python & Winium at Capgemini  
-- 🔁 Took a 1.5-year break to **upskill in Full-Stack Web Development, DSA & CS Fundamentals**
+- 🔁 Took a career break to **upskill in DSA, Low Level Design, CS Fundamentals & Full-Stack Web Development**
 - 💡 Built and deployed full-stack applications with **React, Next.js, Node.js, MongoDB**
 - 🎯 Seeking a **Software Development Engineer (SDE)** role at a product-based company
 
